@@ -43,7 +43,7 @@ A demonstration video of the prototype is available here: https://youtube.com/wa
 
 ### Before Take-off
 
-![Before Take-off](/Screenshots/1-Init.png)
+![Before Take-off](/Screenshots/1-Init.PNG)
 
 ### Flying Forward on Left Edge
 
