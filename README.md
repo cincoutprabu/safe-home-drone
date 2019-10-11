@@ -36,3 +36,4 @@ Once dispatched, the drone flies around the home in a time-based rectangular pat
                                                > > >          (9) Land
                                     (8) Fly Forward on Bottom Edge
 
+A demonstration video of the prototype is available here: https://youtube.com/watch?v=Z5no8KJlarE
