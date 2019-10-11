@@ -21,20 +21,20 @@ Once dispatched, the drone flies around the home in a time-based rectangular pat
 - And finally lands at the same take-off position.
 
 
-                                    \[04\] Fly Forward on Front Edge
+                                    `[04]` Fly Forward on Front Edge
                                                 < < <
-                       \[05\] Turn Left   + - - - - - - - - +   \[03\] Turn Left
+                      `[05]` Turn Left   + - - - - - - - - +   `[03]` Turn Left
                                          |                 |
                                          |                 |
                                      v   |                 |    ^
-     \[06\] Fly forward on Left Edge  v   |                 |    ^  \[02\] Fly Forward on Right Edge
+    `[06]` Fly forward on Left Edge  v   |                 |    ^  `[02]` Fly Forward on Right Edge
                                      v   |                 |    ^
                                          |                 |
                                          |                 |
                                          |                 |
-                       \[07\] Turn Left   + - - - - - - - - +   \[01\] Take-Off
-                                               > > >          \[09\] Land
-                                    \[08\] Fly Forward on Bottom Edge
+                      `[07]` Turn Left   + - - - - - - - - +   `[01]` Take-Off
+                                                > > >          `[09]` Land
+                                    `[08]` Fly Forward on Bottom Edge
 
 
 A demonstration video of the prototype is available here: https://youtube.com/watch?v=Z5no8KJlarE
