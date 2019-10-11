@@ -8,9 +8,9 @@ The prototype includes:
 * Parrot Mambo Minidrone
 * iOS app written in Objective-C
 
-The SensorTag is used to detect interesting events happening around the home, by capturing the environmental sensor data like temperature, humidiy, pressure, ambient light, etc. The iOS app collects and monitors the sensor data, and dispatches the drone if any anomaly is found in the sensor data. The drone then autonomously flies around the home to capture the events in camera.
+The SensorTag is used to detect interesting events happening around the home, by capturing the environmental sensor data like temperature, humidity, pressure, ambient light, etc. The iOS app collects and monitors the sensor data, and dispatches the drone if any anomaly is found in the sensor data. The drone then autonomously flies around the home to capture the events in camera.
 
-When the iOS app is launched, the user needs to connect the iPhone to SensorTag as well as Parrot Mambo drone via Bluetooth. The app also has options to manually control the drone to take-off and land anytime when the drone is flying.
+When the iOS app is launched on the iPhone or iPad, the app connects to SensorTag as well as Parrot Mambo drone via Bluetooth. The app also has options to manually control the drone to take-off and land anytime when the drone is flying.
 
 Once dispatched, the drone flies around the home in a time-based rectangular pattern. Assuming the drone is placed at the bottom right corner of a grid:
 
@@ -37,5 +37,4 @@ Once dispatched, the drone flies around the home in a time-based rectangular pat
                                     (8) Fly Forward on Bottom Edge
 
 
-A demonstration video of the prototype is available here:
-https://youtube.com/watch?v=Z5no8KJlarE
+A demonstration video of the prototype is available here: https://youtube.com/watch?v=Z5no8KJlarE
