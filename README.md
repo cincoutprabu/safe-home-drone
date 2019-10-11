@@ -38,3 +38,21 @@ Once dispatched, the drone flies around the home in a time-based rectangular pat
 
 
 A demonstration video of the prototype is available here: https://youtube.com/watch?v=Z5no8KJlarE
+
+# Screenshots
+
+### Before Take-off
+
+![Before Take-off](/Screenshots/1-Init.png)
+
+### Flying Forward on Left Edge
+
+![Flying Forward on Left Edge](/Screenshots/2-Hovering-Left-Forward.png)
+
+### Turning Left towards Bottom Edge
+
+![Turning Left towards Bottom Edge](/Screenshots/3-Hovering-Left-Turn.png)
+
+### Landed
+
+![Landed](/Screenshots/4-Landed.png)
