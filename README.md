@@ -1,6 +1,6 @@
 # Safe Home Drone
 
-The idea is to build a drone-based home security system prototype, where the drone autonomously takes off and flies around a home building and capture the events in camera, when a security threat is detected.
+The idea is to build a drone-based home security system prototype, where a drone autonomously takes off and flies around a home building and capture the events in camera, when a security threat is detected.
 
 The prototype includes:
 
