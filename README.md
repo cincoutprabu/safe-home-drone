@@ -18,7 +18,7 @@ Once dispatched, the drone flies around the home in a time-based rectangular pat
 - Then turns left and flies forward on the front edge of the rectangle (first row of grid)
 - Then turns left and flies forward on the left edge of the rectangle (first column of grid)
 - Then turns left and flies forward on the bottom edge of the rectangle (last row of grid)
-- And finally lands at the same take-off position.
+- And finally lands at bottom right corner (same as take-off position).
 
 
                                     (04) Fly Forward on Front Edge
