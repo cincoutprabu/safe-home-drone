@@ -47,12 +47,12 @@ A demonstration video of the prototype is available here: https://youtube.com/wa
 
 ### Flying Forward on Left Edge
 
-![Flying Forward on Left Edge](/Screenshots/2-Hovering-Left-Forward.png)
+![Flying Forward on Left Edge](/Screenshots/2-Hovering-Left-Forward.PNG)
 
 ### Turning Left towards Bottom Edge
 
-![Turning Left towards Bottom Edge](/Screenshots/3-Hovering-Left-Turn.png)
+![Turning Left towards Bottom Edge](/Screenshots/3-Hovering-Left-Turn.PNG)
 
 ### Landed
 
-![Landed](/Screenshots/4-Landed.png)
+![Landed](/Screenshots/4-Landed.PNG)
