@@ -42,4 +42,5 @@ A demonstration video of the prototype is available here: https://youtube.com/wa
 # Screenshots
 
 Before Take-off | Flying Forward on Left Edge | Turning Left towards Bottom Edge | Landed
+--- | --- | --- | ---
 ![Before Take-off](/Screenshots/1-Init.PNG) | ![Flying Forward on Left Edge](/Screenshots/2-Hovering-Left-Forward.PNG) | ![Turning Left towards Bottom Edge](/Screenshots/3-Hovering-Left-Turn.PNG) | ![Landed](/Screenshots/4-Landed.PNG)
